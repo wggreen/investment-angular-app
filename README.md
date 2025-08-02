@@ -1,6 +1,6 @@
 # Investment App
 
-This project was created as part of Section 4 of the Udemy class ["Angular - The Complete Guide (2025 Edition)"](https://www.udemy.com/course/the-complete-guide-to-angular-2/)
+This project was created (with started code) as part of Section 4 of the Udemy class ["Angular - The Complete Guide (2025 Edition)"](https://www.udemy.com/course/the-complete-guide-to-angular-2/)
 
 ## Section 4 ("Angular Essentials - Time to Practice"):
 - Module Introduction & Starting Project
